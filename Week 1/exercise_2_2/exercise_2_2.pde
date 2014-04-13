@@ -1,0 +1,10 @@
+size(100,100);
+background(124);
+fill(0);
+ellipse(0,0,60,60);
+fill(200);
+strokeWeight(4);
+ellipse(50,50,30,30);
+strokeWeight(2);
+//line(50,50,1,1);
+line(100,100,1,1);
